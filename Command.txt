@@ -1,0 +1,20 @@
+How to Website Hack & Website Information Gathering Powerfull Tool
+
+{INSTALLATION}
+
+
+$  sudo apt update && apt upgrade
+
+[Linux]
+
+$  sudo apt install ruby
+
+[Termux]
+
+pkg install ruby
+
+[After]
+
+git clone https://github.com/bahaabdelwahed/killshot.git
+cd killshot
+ruby Killshot.rb
